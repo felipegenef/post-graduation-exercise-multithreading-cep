@@ -13,7 +13,7 @@ Este projeto faz parte de um exercício/exame de uma pós-graduação em Golang.
 
 ## Requisitos
 
-- Go 1.18 ou superior
+- Go 1.23.3 ou superior
 - Acesso à internet para consumir as APIs externas (https://brasilapi.com.br/api/cep e http://viacep.com.br/ws/)
 
 ## Como Rodar o Script
